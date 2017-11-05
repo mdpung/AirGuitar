@@ -1,1 +1,0 @@
-scriptID = 'com.thalmic.examples.guitaristhelper'
